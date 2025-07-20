@@ -1,3 +1,4 @@
 # Ignore node modules anywhere in the project
 **/node_modules
 /backend/.env
+/admin/.env
