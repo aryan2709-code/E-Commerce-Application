@@ -2,3 +2,4 @@
 **/node_modules
 /backend/.env
 /admin/.env
+/Front-End/src/.env
